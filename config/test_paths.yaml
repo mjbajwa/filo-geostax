@@ -1,0 +1,9 @@
+collars:
+  path: "data/filo/filo_del_sol_drillhole_data_june_10_2024.xlsx"
+  sheet_name: "Collars"
+survey: 
+  path: "data/filo/filo_del_sol_drillhole_data_june_10_2024.xlsx"
+  sheet_name: "Surveys"
+assays:
+  path: "data/filo/filo_del_sol_drillhole_data_june_10_2024.xlsx"
+  sheet_name: "Assays"
